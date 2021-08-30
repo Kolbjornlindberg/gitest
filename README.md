@@ -1,2 +1,2 @@
 "# gitest
-KB KULT trwhepåæoiøuiopj" 
+KB KULT trwhepåæoiøj" 
