@@ -1,2 +1,2 @@
 "# gitest
-KB KULT trwhepåæoiøj" 
+Endelig fikk jeg det til" 
