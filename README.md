@@ -1,1 +1,4 @@
-"# gitest \r Endelig fikk jeg det til \n jeg også"
+gitest
+Endelig fikk jeg det til
+jeg også
+
