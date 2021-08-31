@@ -1,1 +1,1 @@
-"# gitest \n Endelig fikk jeg det til \n jeg også"
+"# gitest \r Endelig fikk jeg det til \n jeg også"
