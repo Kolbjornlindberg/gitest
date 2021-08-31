@@ -1,3 +1,3 @@
-"# gitest
-Endelig fikk jeg det til" 
+"# gitest\n
+Endelig fikk jeg det til\n" 
 "Jeg også :)"
